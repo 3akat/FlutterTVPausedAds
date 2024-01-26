@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - pausable_ads_plugin (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pausable_ads_plugin (from `.symlinks/plugins/pausable_ads_plugin/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pausable_ads_plugin:
+    :path: ".symlinks/plugins/pausable_ads_plugin/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  pausable_ads_plugin: 1ad0fa0270bd7e610d4c14bd07d0b1fc3bc6aaa5
+  video_player_avfoundation: 81e49bb3d9fb63dccf9fa0f6d877dc3ddbeac126
+
+PODFILE CHECKSUM: 76a4653978846556811812f5a2c6f56601139151
+
+COCOAPODS: 1.12.1
